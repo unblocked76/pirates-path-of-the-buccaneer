@@ -1,0 +1,565 @@
+﻿<loc>
+
+
+	<language lang="en">
+		<str_upgrade>UPGRADE</str_upgrade>
+		<str_item_name01>Speed</str_item_name01>
+		<str_item_name02>Damage</str_item_name02>
+		<str_item_name03>HP</str_item_name03>
+		<str_tutorial_01>Drag to Shoot</str_tutorial_01>
+		<str_tutorial_02>Tap &amp; Hold here to move your ship</str_tutorial_02>
+		<str_mission_01>Sink the enemy ship</str_mission_01>
+		<str_mission_bullet_limit>Sink the enemy ship with %s cannonballs</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Sink the enemy ship and destroy the barrels</str_mission_destroy_barrel>
+		<str_mission_boss_01>Kill the Leviathan</str_mission_boss_01>
+		<str_mission_time_limit>Sink the enemy ship within %s seconds</str_mission_time_limit>
+		<str_mission_boss_02>Destroy the Ghost Ship</str_mission_boss_02>
+		<str_mission_boss_03>Kill the Kraken</str_mission_boss_03>
+		<str_earned_coin>YOU EARNED %s COINS</str_earned_coin>
+		<str_lose_destroyed>Your ship was destroyed! Please try again.</str_lose_destroyed>
+		<str_lose_outofbullet>You have run out of cannonballs! Please try again.</str_lose_outofbullet>
+		<str_lose_outoftime>You have run out of time! Please try again.</str_lose_outoftime>
+		<str_lose_escape>The enemy has escaped! Please try again.</str_lose_escape>
+		<str_disable_enemy>ENEMY CAN'T SHOOT FOR %s SECOND(S)</str_disable_enemy>
+		<str_disable_mc>YOU CAN'T SHOOT FOR %s SECOND(S)</str_disable_mc>
+		<str_enemy_escape>ENEMY ESCAPES IN %s SECOND(S)!!!</str_enemy_escape>
+		<str_count_hits>%s HITS</str_count_hits>
+		<str_bonus_level>BONUS LEVEL</str_bonus_level>
+		<str_bonus_level_target>Destroy as many treasure chests as you can in %s seconds</str_bonus_level_target>
+		<share_score>Share your score now:</share_score>
+		<totalscore_title>Total Score: </totalscore_title>
+		<description>Join the intense naval battles of the pirate lords. Pirates: Path of the Buccaneer is a great adventure of cannon balls, sea monsters and pirate ships that you won't forget.</description>
+		<tutorial_step_1>Compete in the qualifiers to reach the final.</tutorial_step_1>
+		<tutorial_step_2>Your results in the final will determine the ranking of your country.</tutorial_step_2>
+		<final>Final!</final>
+		<skip_level>Do you want to skip this level?</skip_level>
+		<main_hello>Hello, [username]</main_hello>
+		<load_success>Save successfully loaded</load_success>
+		<load>Loading...</load>
+		<save>Saving...</save>
+		<saved>Game saved</saved>
+		<main_login>Log in to save game</main_login>
+		<logout_popup>Do you want to log out of Facebook?</logout_popup>
+		<login_popup>Please log into Facebook to save your progress.</login_popup>
+		<fail_popup>Unable to connect because of a network or server issue. Please check your Internet connection and try again later.</fail_popup>
+	</language>
+	
+	<language lang="vi">
+		<str_upgrade>NÂNG CẤP</str_upgrade>
+		<str_item_name01>Tốc độ</str_item_name01>
+		<str_item_name02>Sát thương</str_item_name02>
+		<str_item_name03>Sinh lực</str_item_name03>
+		<str_tutorial_01>Miết để Bắn</str_tutorial_01>
+		<str_tutorial_02>Chạm &amp; Giữ ở đây để di chuyển tàu</str_tutorial_02>
+		<str_mission_01>Đánh chìm tàu địch</str_mission_01>
+		<str_mission_bullet_limit>Đánh chìm tàu địch với %s viên pháo đại bác</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Đánh chìm tàu địch và phá hủy thùng phuy</str_mission_destroy_barrel>
+		<str_mission_boss_01>Giết thủy quái Leviathan</str_mission_boss_01>
+		<str_mission_time_limit>Đánh chìm tàu địch trong %s giây</str_mission_time_limit>
+		<str_mission_boss_02>Phá hủy Tàu ma</str_mission_boss_02>
+		<str_mission_boss_03>Giết thủy quái Kraken</str_mission_boss_03>
+		<str_earned_coin>BẠN KIẾM ĐƯỢC %s XU.</str_earned_coin>
+		<str_lose_destroyed>Tàu của bạn đã bị phá hủy! Xin thử lại.</str_lose_destroyed>
+		<str_lose_outofbullet>Bạn đã hết pháo đại bác! Xin thử lại.</str_lose_outofbullet>
+		<str_lose_outoftime>Bạn đã hết thời gian! Xin thử lại.</str_lose_outoftime>
+		<str_lose_escape>Địch đã chuồn mất! Xin thử lại.</str_lose_escape>
+		<str_disable_enemy>ĐỊCH KHÔNG THỂ BẮN TRONG %s GIÂY.</str_disable_enemy>
+		<str_disable_mc>BẠN KHÔNG THỂ BẮN TRONG %s GIÂY.</str_disable_mc>
+		<str_enemy_escape>ĐỊCH SẼ CHUỒN SAU %s GIÂY!!!</str_enemy_escape>
+		<str_count_hits>%s PHÁT</str_count_hits>
+		<str_bonus_level>MÀN BONUS</str_bonus_level>
+		<str_bonus_level_target>Phá hủy càng nhiều rương châu báu càng tốt trong %s giây</str_bonus_level_target>
+		<share_score>Chia sẻ điểm số ngay:</share_score>
+		<totalscore_title>Tổng điểm: </totalscore_title>
+		<description>Tham gia trận thủy chiến gay cấn của các chúa tể hải tặc. Pirates: Path of the Buccaneer là một hải trình vi diệu, khắc cốt ghi tâm với đạn đại bác, quỷ biển và tàu hải tặc.</description>
+		<tutorial_step_1>Tranh tài ở vòng loại để lọt vào chung kết.</tutorial_step_1>
+		<tutorial_step_2>Kết quả của bạn ở vòng chung kết sẽ quyết định thứ hạng của nước bạn.</tutorial_step_2>
+		<final>Chung kết!</final>
+		<skip_level>Bạn có muốn bỏ qua màn này?</skip_level>
+		<main_hello>Chào [username]</main_hello>
+		<load_success>Tải bản lưu thành công</load_success>
+		<load>Đang tải...</load>
+		<save>Đang lưu...</save>
+		<saved>Trò chơi đã lưu</saved>
+		<main_login>Đăng nhập để lưu trò chơi</main_login>
+		<logout_popup>Bạn có muốn thoát Facebook?</logout_popup>
+		<login_popup>Xin đăng nhập Facebook để lưu tiến trình chơi.</login_popup>
+		<fail_popup>Không thể kết nối do lỗi mạng hoặc máy chủ. Xin kiểm tra kết nối Internet của bạn và thử lại sau.</fail_popup>
+	</language>
+	
+	<language lang="fr">
+		<str_upgrade>AMÉLIORATION</str_upgrade>
+		<str_item_name01>Vitesse</str_item_name01>
+		<str_item_name02>Dégâts</str_item_name02>
+		<str_item_name03>HP</str_item_name03>
+		<str_tutorial_01>Fais glisser pour tirer</str_tutorial_01>
+		<str_tutorial_02>Maintiens ici pour déplacer ton navire</str_tutorial_02>
+		<str_mission_01>Coule le navire ennemi</str_mission_01>
+		<str_mission_bullet_limit>Coule le navire ennemi avec %s boulets de canon</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Coule le navire ennemi et détruis les tonneaux</str_mission_destroy_barrel>
+		<str_mission_boss_01>Tue le Léviathan</str_mission_boss_01>
+		<str_mission_time_limit>Coule le navire ennemi en %s secondes</str_mission_time_limit>
+		<str_mission_boss_02>Détruis le bateau fantôme</str_mission_boss_02>
+		<str_mission_boss_03>Tue le Kraken</str_mission_boss_03>
+		<str_earned_coin>TU AS GAGNÉ %s PIÈCE(S)</str_earned_coin>
+		<str_lose_destroyed>Ton navire a été détruit ! Réessaie.</str_lose_destroyed>
+		<str_lose_outofbullet>Tu es à court de boulets de canon ! Réessaie.</str_lose_outofbullet>
+		<str_lose_outoftime>Le temps est écoulé ! Réessaie.</str_lose_outoftime>
+		<str_lose_escape>L'ennemi s'est enfui ! Réessaie.</str_lose_escape>
+		<str_disable_enemy>L'ENNEMI NE PEUT PAS TIRER PENDANT %s SECONDE(S)</str_disable_enemy>
+		<str_disable_mc>TU NE PEUX PAS TIRER PENDANT %s SECONDE(S)</str_disable_mc>
+		<str_enemy_escape>L'ENNEMI S'ÉCHAPPE DANS %s SECONDE(S) !!!</str_enemy_escape>
+		<str_count_hits>%s COUPS</str_count_hits>
+		<str_bonus_level>NIVEAU BONUS</str_bonus_level>
+		<str_bonus_level_target>Détruis autant de coffres au trésor que possible en %s secondes</str_bonus_level_target>
+		<share_score>Partage ton score maintenant:</share_score>
+		<totalscore_title>Score total: </totalscore_title>
+		<description>Participez à des batailles navales intenses entre les seigneurs pirates. Pirates: Path of the Buccaneer est une grande aventure pleine de boulets de canon, de monstres marins et de bateaux de pirates, que vous n'oublierez pas.</description>
+		<tutorial_step_1>Participez aux qualifications pour atteindre la finale.</tutorial_step_1>
+		<tutorial_step_2>Votre résultat dans la finale déterminera le rang de votre pays.</tutorial_step_2>
+		<final>Finale !</final>
+		<skip_level>Veux-tu passer ce niveau ?</skip_level>
+		<main_hello>Bonjour, [username]</main_hello>
+		<load_success>Sauvegarde chargée</load_success>
+		<load>Chargement...</load>
+		<save>Sauvegarde...</save>
+		<saved>Partie sauvegardée</saved>
+		<main_login>Connecte-toi pour sauvegarder la partie</main_login>
+		<logout_popup>Se déconnecter de Facebook ?</logout_popup>
+		<login_popup>Merci de te connecter à Facebook pour sauvegarder ta progression.</login_popup>
+		<fail_popup>Connexion impossible en raison d'un problème de serveur. Merci de vérifier ta connexion Internet et de réessayer plus tard.</fail_popup>
+	</language>
+	
+	<language lang="de">
+		<str_upgrade>UPGRADE</str_upgrade>
+		<str_item_name01>Tempo</str_item_name01>
+		<str_item_name02>Schaden</str_item_name02>
+		<str_item_name03>GP</str_item_name03>
+		<str_tutorial_01>Zum Schießen ziehen</str_tutorial_01>
+		<str_tutorial_02>Berühre und halte hier, um dein Schiff zu bewegen.</str_tutorial_02>
+		<str_mission_01>Versenke das feindliche Schiff.</str_mission_01>
+		<str_mission_bullet_limit>Versenke das feindliche Schiff mit %s Kanonenkugeln.</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Versenke das feindliche Schiff und zerstöre die Fässer.</str_mission_destroy_barrel>
+		<str_mission_boss_01>Töte das Seeungeheuer.</str_mission_boss_01>
+		<str_mission_time_limit>Versenke das Schiff innerhalb von %s Sekunden.</str_mission_time_limit>
+		<str_mission_boss_02>Zerstöre das Geisterschiff.</str_mission_boss_02>
+		<str_mission_boss_03>Töte den Kraken.</str_mission_boss_03>
+		<str_earned_coin>DU HAST %s MÜNZEN VERDIENT</str_earned_coin>
+		<str_lose_destroyed>Dein Schiff wurde zerstört! Bitte versuche es erneut.</str_lose_destroyed>
+		<str_lose_outofbullet>Du hast keine Kanonenkugeln mehr! Bitte versuche es erneut.</str_lose_outofbullet>
+		<str_lose_outoftime>Du hast keine Zeit mehr! Bitte versuche es erneut.</str_lose_outoftime>
+		<str_lose_escape>Der Feind ist entkommen! Bitte versuche es erneut.</str_lose_escape>
+		<str_disable_enemy>FEIND KANN FÜR %s SEKUNDE(N) NICHT SCHIESSEN.</str_disable_enemy>
+		<str_disable_mc>DU KANNST FÜR %s SEKUNDE(N) NICHT SCHIESSEN.</str_disable_mc>
+		<str_enemy_escape>FEIND ENTKOMMT IN %s SEKUNDE(N)!!!</str_enemy_escape>
+		<str_count_hits>%s TREFFER</str_count_hits>
+		<str_bonus_level>BONUS-LEVEL</str_bonus_level>
+		<str_bonus_level_target>Zerstöre innerhalb von %s Sekunden so viele Schatztruhen, wie du kannst.</str_bonus_level_target>
+		<share_score>Teile dein Ergebnis jetzt:</share_score>
+		<totalscore_title>Gesamtergebnis: </totalscore_title>
+		<description>Nimm an den intensiven Seeschlachten der Piratenherrscher teil! Pirates: Path of the Buccaneer ist ein spannendes Abenteuer voller Kanonenkugeln, Seeungeheuer und Piratenschiffe, das du nicht so schnell vergessen wirst.</description>
+		<tutorial_step_1>Tritt in der Qualifikation an, um das Finale zu erreichen.</tutorial_step_1>
+		<tutorial_step_2>Dein Ergebnis im Finale bestimmt den Rang deines Landes.</tutorial_step_2>
+		<final>Finale!</final>
+		<skip_level>Möchtest du diesen Level überspringen?</skip_level>
+		<main_hello>Hallo, [username]</main_hello>
+		<load_success>Speicherspiel erfolgreich geladen</load_success>
+		<load>Lädt…</load>
+		<save>Speichert…</save>
+		<saved>Spiel gespeichert</saved>
+		<main_login>Melde dich an, um das Spiel zu speichern.</main_login>
+		<logout_popup>Willst du dich bei Facebook abmelden?</logout_popup>
+		<login_popup>Melde dich bitte bei Facebook an, um deinen Fortschritt zu speichern.</login_popup>
+		<fail_popup>Verbindung konnte aufgrund eines Netzwerk- oder Server-Problems nicht hergestellt werden. Überprüfe bitte deine Internetverbindung und versuche es später erneut.</fail_popup>
+	</language>
+	
+	<language lang="es">
+		<str_upgrade>MEJORAR</str_upgrade>
+		<str_item_name01>Velocidad</str_item_name01>
+		<str_item_name02>Daño</str_item_name02>
+		<str_item_name03>PV</str_item_name03>
+		<str_tutorial_01>Arrastra para disparar</str_tutorial_01>
+		<str_tutorial_02>Toca y mantén aquí para mover tu barco</str_tutorial_02>
+		<str_mission_01>Hunde el barco enemigo</str_mission_01>
+		<str_mission_bullet_limit>Hunde el barco enemigo con %s balas de cañón</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Hunde el barco enemigo y destruye los barriles</str_mission_destroy_barrel>
+		<str_mission_boss_01>Mata al leviatán</str_mission_boss_01>
+		<str_mission_time_limit>Hunde el barco enemigo en %s segundos</str_mission_time_limit>
+		<str_mission_boss_02>Destruye el barco fantasma</str_mission_boss_02>
+		<str_mission_boss_03>Mata al kraken</str_mission_boss_03>
+		<str_earned_coin>HAS GANADO %s MONEDAS</str_earned_coin>
+		<str_lose_destroyed>¡Tu barco ha sido destruido! Inténtalo de nuevo.</str_lose_destroyed>
+		<str_lose_outofbullet>¡Te has quedado sin balas de cañón! Inténtalo de nuevo.</str_lose_outofbullet>
+		<str_lose_outoftime>¡Se ha agotado el tiempo! Inténtalo de nuevo.</str_lose_outoftime>
+		<str_lose_escape>¡El enemigo ha escapado! Inténtalo de nuevo.</str_lose_escape>
+		<str_disable_enemy>EL ENEMIGO NO PUEDE DISPARAR DURANTE %s SEGUNDO(S)</str_disable_enemy>
+		<str_disable_mc>NO PUEDES DISPARAR DURANTE %s SEGUNDO(S)</str_disable_mc>
+		<str_enemy_escape>EL ENEMIGO ESCAPA EN %s SEGUNDO(S)</str_enemy_escape>
+		<str_count_hits>%s GOLPES</str_count_hits>
+		<str_bonus_level>NIVEL EXTRA</str_bonus_level>
+		<str_bonus_level_target>Destruye todos los cofres del tesoro que puedas en %s segundos</str_bonus_level_target>
+		<share_score>Comparte tu puntuación:</share_score>
+		<totalscore_title>Puntuación total: </totalscore_title>
+		<description>Participa en las intensas batallas navales de los piratas. Pirates: Path of the Buccaneer es una gran aventura de cañonazos, monstruos marinos y barcos piratas que jamás olvidarás.</description>
+		<tutorial_step_1>Compite en las eliminatorias para llegar a la final.</tutorial_step_1>
+		<tutorial_step_2>Tus resultados en la final determinarán la clasificación de tu país.</tutorial_step_2>
+		<final>¡Final!</final>
+		<skip_level>¿Quieres omitir este nivel?</skip_level>
+		<main_hello>¡Hola, [username]!</main_hello>
+		<load_success>Se ha cargado la partida guardada</load_success>
+		<load>Cargando...</load>
+		<save>Guardando...</save>
+		<saved>Partida guardada</saved>
+		<main_login>Inicia sesión para guardar la partida</main_login>
+		<logout_popup>¿Quieres cerrar sesión en Facebook?</logout_popup>
+		<login_popup>Por favor, inicia sesión en Facebook para guardar tu progreso.</login_popup>
+		<fail_popup>No se ha podido conectar debido a un problema de la red o del servidor. Por favor, comprueba tu conexión a Internet y vuelve a intentarlo más tarde.</fail_popup>
+	</language>
+	
+	<language lang="it">
+		<str_upgrade>POTENZIA</str_upgrade>
+		<str_item_name01>Velocità</str_item_name01>
+		<str_item_name02>Danni</str_item_name02>
+		<str_item_name03>PS</str_item_name03>
+		<str_tutorial_01>Trascina per sparare</str_tutorial_01>
+		<str_tutorial_02>Tocca senza rilasciare per muovere la tua nave</str_tutorial_02>
+		<str_mission_01>Affonda la nave nemica</str_mission_01>
+		<str_mission_bullet_limit>Affonda la nave nemica con %s palle di cannone</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Affonda la nave nemica e distruggi i barili</str_mission_destroy_barrel>
+		<str_mission_boss_01>Elimina il leviatano</str_mission_boss_01>
+		<str_mission_time_limit>Affonda la nave nemica entro %s secondi</str_mission_time_limit>
+		<str_mission_boss_02>Distruggi la nave fantasma</str_mission_boss_02>
+		<str_mission_boss_03>Elimina il kraken</str_mission_boss_03>
+		<str_earned_coin>HAI OTTENUTO %s MONETE</str_earned_coin>
+		<str_lose_destroyed>La tua nave è stata distrutta! Riprova.</str_lose_destroyed>
+		<str_lose_outofbullet>Hai esaurito le palle di cannone! Riprova.</str_lose_outofbullet>
+		<str_lose_outoftime>Tempo esaurito! Riprova.</str_lose_outoftime>
+		<str_lose_escape>Il nemico è scappato! Riprova.</str_lose_escape>
+		<str_disable_enemy>IL NEMICO NON PUÒ SPARARE PER %s S</str_disable_enemy>
+		<str_disable_mc>NON PUOI SPARARE PER %s S</str_disable_mc>
+		<str_enemy_escape>IL NEMICO FUGGIRÀ TRA %s S!</str_enemy_escape>
+		<str_count_hits>%s COLPI</str_count_hits>
+		<str_bonus_level>LIVELLO BONUS</str_bonus_level>
+		<str_bonus_level_target>Distruggi più scrigni del tesoro che puoi entro %s secondi</str_bonus_level_target>
+		<share_score>Condividi subito il tuo punteggio:</share_score>
+		<totalscore_title>Punti totali: </totalscore_title>
+		<description>Prendi parte alle intense battaglie navali dei pirati. Pirati: la rotta del bucaniere è un'indimenticabile avventura costellata di palle di cannone, mostri marini e navi pirata.</description>
+		<tutorial_step_1>Competi nelle qualificazioni per arrivare in finale.</tutorial_step_1>
+		<tutorial_step_2>Il tuo risultato nella finale determinerà il piazzamento del tuo paese.</tutorial_step_2>
+		<final>Finale!</final>
+		<skip_level>Vuoi saltare questo livello?</skip_level>
+		<main_hello>Salve, [username]</main_hello>
+		<load_success>Salvataggio caricato</load_success>
+		<load>Caricamento...</load>
+		<save>Salvataggio...</save>
+		<saved>Partita salvata</saved>
+		<main_login>Accedi per salvare la partita</main_login>
+		<logout_popup>Vuoi uscire da Facebook?</logout_popup>
+		<login_popup>Accedi a Facebook per salvare i progressi.</login_popup>
+		<fail_popup>Impossibile connettersi a causa di un errore con il server o con la rete. Verifica la tua connessione a internet e riprova.</fail_popup>
+	</language>
+	
+	<language lang="br">
+		<str_upgrade>MELHORAR</str_upgrade>
+		<str_item_name01>Velocidade</str_item_name01>
+		<str_item_name02>Dano</str_item_name02>
+		<str_item_name03>PS</str_item_name03>
+		<str_tutorial_01>Arraste para Atirar</str_tutorial_01>
+		<str_tutorial_02>Toque e segure aqui para mover seu navio</str_tutorial_02>
+		<str_mission_01>Afunde o navio inimigo</str_mission_01>
+		<str_mission_bullet_limit>Afunde o navio inimigo com %s balas de canhão</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Afunde o navio inimigo e destrua os barris</str_mission_destroy_barrel>
+		<str_mission_boss_01>Mate o Leviatã</str_mission_boss_01>
+		<str_mission_time_limit>Afunde o navio inimigo em %s segundos</str_mission_time_limit>
+		<str_mission_boss_02>Destrua o Navio Fantasma</str_mission_boss_02>
+		<str_mission_boss_03>Mate o Kraken</str_mission_boss_03>
+		<str_earned_coin>VOCÊ GANHOU %s MOEDAS</str_earned_coin>
+		<str_lose_destroyed>Seu navio foi destruído! Tente novamente.</str_lose_destroyed>
+		<str_lose_outofbullet>Acabaram suas balas de canhão! Tente novamente.</str_lose_outofbullet>
+		<str_lose_outoftime>Acabou seu tempo! Tente novamente.</str_lose_outoftime>
+		<str_lose_escape>O inimigo escapou! Tente novamente.</str_lose_escape>
+		<str_disable_enemy>O INIMIGO NÃO PODE ATIRAR POR %s SEGUNDO(S)</str_disable_enemy>
+		<str_disable_mc>VOCÊ NÃO PODE ATIRAR POR %s SEGUNDO(S)</str_disable_mc>
+		<str_enemy_escape>O INIMIGO ESCAPA EM %s SEGUNDO(S)!!!</str_enemy_escape>
+		<str_count_hits>%s ACERTOS</str_count_hits>
+		<str_bonus_level>NÍVEL BÔNUS</str_bonus_level>
+		<str_bonus_level_target>Destrua o máximo de baús de tesouro que puder em %s segundos</str_bonus_level_target>
+		<share_score>Compartilhe sua pontuação agora:</share_score>
+		<totalscore_title>Pontuação: </totalscore_title>
+		<description>Entre numa intensa batalha naval entre piratas. Pirates: Path of the Buccaneer é uma grande aventura com tiros de canhão, monstros marinhos e navios piratas inesquecíveis.</description>
+		<tutorial_step_1>Corra nas eliminatórias e chegue à final.</tutorial_step_1>
+		<tutorial_step_2>Os resultados da final vão determinar a posição do seu país.</tutorial_step_2>
+		<final>Final!</final>
+		<skip_level>Deseja pular esta fase?</skip_level>
+		<main_hello>Olá, [username]</main_hello>
+		<load_success>Jogo salvo carregado</load_success>
+		<load>Carregando...</load>
+		<save>Salvando...</save>
+		<saved>Jogo salvo</saved>
+		<main_login>Conecte-se para salvar o jogo</main_login>
+		<logout_popup>Deseja se desconectar do Facebook?</logout_popup>
+		<login_popup>Conecte-se ao Facebook para salvar seu progresso.</login_popup>
+		<fail_popup>Não foi possível se conectar devido a um problema no servidor ou na rede. Verifique sua conexão à internet e tente novamente mais tarde.</fail_popup>
+	</language>
+	
+	<language lang="tr">
+		<str_upgrade>YÜKSELT</str_upgrade>
+		<str_item_name01>Hız</str_item_name01>
+		<str_item_name02>Hasar</str_item_name02>
+		<str_item_name03>SP</str_item_name03>
+		<str_tutorial_01>Ateş etmek için sürükle</str_tutorial_01>
+		<str_tutorial_02>Gemini hareket ettirmek için basılı tut</str_tutorial_02>
+		<str_mission_01>Düşman gemisini batır</str_mission_01>
+		<str_mission_bullet_limit>%s top atışıyla düşman gemisini batır</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Düşman gemisini batır ve fıçıları yok et</str_mission_destroy_barrel>
+		<str_mission_boss_01>Leviathan'ı Öldür</str_mission_boss_01>
+		<str_mission_time_limit>%s saniye içinde düşman gemisini batır</str_mission_time_limit>
+		<str_mission_boss_02>Hayalet gemiyi yok et</str_mission_boss_02>
+		<str_mission_boss_03>Kraken'i öldür</str_mission_boss_03>
+		<str_earned_coin>%s ALTIN PARA KAZANDIN</str_earned_coin>
+		<str_lose_destroyed>Gemin yok edildi! Lütfen tekrar dene.</str_lose_destroyed>
+		<str_lose_outofbullet>Topun kalmadı! Lütfen tekrar dene.</str_lose_outofbullet>
+		<str_lose_outoftime>Süren doldu! Lütfen tekrar dene.</str_lose_outoftime>
+		<str_lose_escape>Düşman kaçtı! Lütfen tekrar dene.</str_lose_escape>
+		<str_disable_enemy>DÜŞMAN %s SANİYE BOYUNCA ATEŞ EDEMEZ</str_disable_enemy>
+		<str_disable_mc>%s SANİYE BOYUNCA ATEŞ EDEMEZSİN</str_disable_mc>
+		<str_enemy_escape>DÜŞMAN %s SANİYE İÇİNDE KAÇACAK!!!</str_enemy_escape>
+		<str_count_hits>%s İSABETLİ ATIŞ</str_count_hits>
+		<str_bonus_level>BONUS SEVİYE</str_bonus_level>
+		<str_bonus_level_target>%s saniye içinde olabildiğince çok hazine sandığını yok et</str_bonus_level_target>
+		<share_score>Şimdi skorunu paylaş:</share_score>
+		<totalscore_title>Toplam Skor: </totalscore_title>
+		<description>Korsan lortların şiddetli deniz savaşlarına katıl. Pirates: Path of the Buccaneer, top ateşi, deniz canavarları ve korsan gemileriyle dolu, unutamayacağın müthiş bir macera.</description>
+		<tutorial_step_1>Finale ulaşmak için elemelerde yarış.</tutorial_step_1>
+		<tutorial_step_2>Finalde aldığın sonuçlar ülkenin sıralamasını belirleyecek.</tutorial_step_2>
+		<final>Final!</final>
+		<skip_level>Bu seviyeyi geçmek istiyor musun?</skip_level>
+		<main_hello>Merhaba [username]</main_hello>
+		<load_success>Kayıt başarıyla yüklendi</load_success>
+		<load>Yükleniyor...</load>
+		<save>Kaydediliyor...</save>
+		<saved>Oyun kaydedildi</saved>
+		<main_login>Oyunu kaydetmek için giriş yap</main_login>
+		<logout_popup>Facebook'tan çıkış yapmak istiyor musun?</logout_popup>
+		<login_popup>İlerlemeni kaydetmek için lütfen Facebook'a giriş yap.</login_popup>
+		<fail_popup>Bir ağ ya da sunucu sorunu nedeniyle bağlanılamıyor. Lütfen internet bağlantını kontrol edip sonra tekrar dene.</fail_popup>
+	</language>
+	
+	<language lang="ru">
+		<str_upgrade>УЛУЧШЕНИЕ</str_upgrade>
+		<str_item_name01>Скорость</str_item_name01>
+		<str_item_name02>Урон</str_item_name02>
+		<str_item_name03>ОП</str_item_name03>
+		<str_tutorial_01>Перетащите, чтобы выстрелить</str_tutorial_01>
+		<str_tutorial_02>Нажмите и удерживайте здесь, чтобы корабль двигался</str_tutorial_02>
+		<str_mission_01>Потопите вражеский корабль</str_mission_01>
+		<str_mission_bullet_limit>Потопите вражеский корабль, выстрелив из пушки %s р.</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Потопите вражеский корабль и уничтожьте бочки</str_mission_destroy_barrel>
+		<str_mission_boss_01>Убейте Левиафана</str_mission_boss_01>
+		<str_mission_time_limit>Потопите вражеский корабль за %s сек.</str_mission_time_limit>
+		<str_mission_boss_02>Уничтожьте Корабль-Призрак</str_mission_boss_02>
+		<str_mission_boss_03>Убейте Кракена</str_mission_boss_03>
+		<str_earned_coin>ВЫ ПОЛУЧАЕТЕ МОНЕТЫ: %s</str_earned_coin>
+		<str_lose_destroyed>Ваш корабль уничтожен! Попробуйте еще раз.</str_lose_destroyed>
+		<str_lose_outofbullet>У вас закончились снаряды! Попробуйте еще раз.</str_lose_outofbullet>
+		<str_lose_outoftime>У вас закончилось время! Попробуйте еще раз.</str_lose_outoftime>
+		<str_lose_escape>Врагу удалось уйти! Попробуйте еще раз.</str_lose_escape>
+		<str_disable_enemy>ВРАГ НЕ МОЖЕТ СТРЕЛЯТЬ %s СЕК.</str_disable_enemy>
+		<str_disable_mc>ВЫ НЕ МОЖЕТЕ СТРЕЛЯТЬ %s СЕК.</str_disable_mc>
+		<str_enemy_escape>ВРАГ СМОЖЕТ УЙТИ ЧЕРЕЗ %s СЕК.!!!</str_enemy_escape>
+		<str_count_hits>ПОПАДАНИЯ: %s</str_count_hits>
+		<str_bonus_level>БОНУСНЫЙ УРОВЕНЬ</str_bonus_level>
+		<str_bonus_level_target>Разбейте как можно больше сундуков с сокровищами за %s с</str_bonus_level_target>
+		<share_score>Поделитесь счетом:</share_score>
+		<totalscore_title>Общий счет: </totalscore_title>
+		<description>Вас ждут небывалые морские сражения предводителей пиратов. В игре Pirates: Path of the Buccaneer над головой то и дело свистят пушечные ядра, под водой затаились морские чудовища, а море бороздят корабли, которые надолго останутся в вашей памяти.</description>
+		<tutorial_step_1>Пройдите отбор и дойдите до финала.</tutorial_step_1>
+		<tutorial_step_2>Ваши результаты в финале определят место вашей страны в рейтинге.</tutorial_step_2>
+		<final>Финал!</final>
+		<skip_level>Желаете пропустить этот уровень?</skip_level>
+		<main_hello>Приветствуем, [username]</main_hello>
+		<load_success>Сохраненные данные загружены</load_success>
+		<load>Загрузка…</load>
+		<save>Сохранение...</save>
+		<saved>Игра сохранена</saved>
+		<main_login>Подключитесь, чтобы сохранить игру</main_login>
+		<logout_popup>Хотите войти в Facebook?</logout_popup>
+		<login_popup>Пожалуйста, войдите в Facebook, чтобы сохранить прогресс.</login_popup>
+		<fail_popup>Не удалось подключиться из-за проблем с сетью или сервером. Пожалуйста, удостоверьтесь, что вы подключены к Интернету, и повторите попытку.</fail_popup>
+	</language>
+	
+	<language lang="id">
+		<str_upgrade>UPGRADE</str_upgrade>
+		<str_item_name01>Kecepatan</str_item_name01>
+		<str_item_name02>Damage</str_item_name02>
+		<str_item_name03>HP</str_item_name03>
+		<str_tutorial_01>Tarik untuk Menembak</str_tutorial_01>
+		<str_tutorial_02>Ketuk &amp; Tahan di sini untuk menggerakkan kapalmu</str_tutorial_02>
+		<str_mission_01>Tenggelamkan kapal musuh</str_mission_01>
+		<str_mission_bullet_limit>Tenggelamkan kapal musuh dengan %s meriam</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>Tenggelamkan kapal musuh dan hancurkan barelnya</str_mission_destroy_barrel>
+		<str_mission_boss_01>Bunuh Leviathan</str_mission_boss_01>
+		<str_mission_time_limit>Tenggelamkan kapal musuh dalam %s detik</str_mission_time_limit>
+		<str_mission_boss_02>Hancurkan Kapal Hantu</str_mission_boss_02>
+		<str_mission_boss_03>Bunuh Kraken</str_mission_boss_03>
+		<str_earned_coin>KAMU MERAIH %s COIN</str_earned_coin>
+		<str_lose_destroyed>Kapalmu hancur! Silakan coba lagi.</str_lose_destroyed>
+		<str_lose_outofbullet>Kamu kehabisan meriam! Silakan coba lagi.</str_lose_outofbullet>
+		<str_lose_outoftime>Kamu kehabisan waktu! Silakan coba lagi.</str_lose_outoftime>
+		<str_lose_escape>Musuh telah melarikan diri! Silakan coba lagi.</str_lose_escape>
+		<str_disable_enemy>MUSUH TIDAK BISA MENEMBAK SELAMA %s DETIK</str_disable_enemy>
+		<str_disable_mc>KAMU TIDAK BISA MENEMBAK SELAMA %s DETIK</str_disable_mc>
+		<str_enemy_escape>MUSUH MELARIKAN DIRI DALAM %s DETIK!!!</str_enemy_escape>
+		<str_count_hits>%s HIT</str_count_hits>
+		<str_bonus_level>LEVEL BONUS</str_bonus_level>
+		<str_bonus_level_target>Hancurkan peti harta karun sebanyak mungkin dalam %s detik</str_bonus_level_target>
+		<share_score>Bagikan skormu sekarang:</share_score>
+		<totalscore_title>Skor Total: </totalscore_title>
+		<description>Ikuti pertempuran para pemimpin bajak laut di perairan. Pirates: Path of the Buccaneer adalah petualangan mengasyikkan dengan meriam, monster laut, dan kapal bajak laut yang tak akan kamu lupakan.</description>
+		<tutorial_step_1>Bertanding di babak kualifikasi untuk mencapai final.</tutorial_step_1>
+		<tutorial_step_2>Hasilmu di final akan menentukan peringkat negaramu.</tutorial_step_2>
+		<final>Final!</final>
+		<skip_level>Apakah kamu ingin melewati level ini?</skip_level>
+		<main_hello>Halo, [username]</main_hello>
+		<load_success>Game Tersimpan berhasil dimuat</load_success>
+		<load>Memuat...</load>
+		<save>Menyimpan...</save>
+		<saved>Game disimpan</saved>
+		<main_login>Log in untuk menyimpan game</main_login>
+		<logout_popup>Apakah kamu ingin log out dari Facebook?</logout_popup>
+		<login_popup>Silakan log in ke Facebook untuk menyimpan progresmu.</login_popup>
+		<fail_popup>Tidak dapat menghubungkan karena masalah jaringan atau server. Silakan periksa koneksi Internetmu dan coba lagi nanti.</fail_popup>
+	</language>
+	
+	<language lang="th">
+		<str_upgrade>อัพเกรด</str_upgrade>
+		<str_item_name01>ความเร็ว</str_item_name01>
+		<str_item_name02>ความเสียหาย</str_item_name02>
+		<str_item_name03>พลังชีวิต</str_item_name03>
+		<str_tutorial_01>ลากนิ้วเพื่อยิง</str_tutorial_01>
+		<str_tutorial_02>แตะค้างที่นี่เพื่อบังคับเรือ</str_tutorial_02>
+		<str_mission_01>จมเรือศัตรู</str_mission_01>
+		<str_mission_bullet_limit>จมเรือศัตรูด้วยปืนใหญ่ %s ลูก</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>จมเรือศัตรูและทำลายถัง</str_mission_destroy_barrel>
+		<str_mission_boss_01>ฆ่าเลไวอาธาน</str_mission_boss_01>
+		<str_mission_time_limit>จมเรือศัตรูภายใน %s วินาที</str_mission_time_limit>
+		<str_mission_boss_02>ทำลายเรือผี</str_mission_boss_02>
+		<str_mission_boss_03>ฆ่าคราเค่น</str_mission_boss_03>
+		<str_earned_coin>คุณได้รับเหรียญ %s เหรียญ</str_earned_coin>
+		<str_lose_destroyed>เรือของคุณพังแล้ว! โปรดลองอีกครั้ง</str_lose_destroyed>
+		<str_lose_outofbullet>ลูกปืนใหญ่หมดเกลี้ยงแล้ว! โปรดลองอีกครั้ง</str_lose_outofbullet>
+		<str_lose_outoftime>เวลาหมดแล้ว! โปรดลองอีกครั้ง</str_lose_outoftime>
+		<str_lose_escape>ศัตรูหนีไปได้! โปรดลองอีกครั้ง</str_lose_escape>
+		<str_disable_enemy>ศัตรูไม่สามารถยิงได้เป็นเวลา %s วินาที</str_disable_enemy>
+		<str_disable_mc>คุณไม่สามารถยิงได้เป็นเวลา %s วินาที</str_disable_mc>
+		<str_enemy_escape>ศัตรูจะหนีไปในอีก %s วินาที!!!</str_enemy_escape>
+		<str_count_hits>ยิงโดน %s ครั้ง</str_count_hits>
+		<str_bonus_level>เลเวลโบนัส</str_bonus_level>
+		<str_bonus_level_target>ทำลายหีบสมบัติให้มากที่สุดภายใน %s วินาที</str_bonus_level_target>
+		<share_score>แชร์คะแนนของคุณเลย:</share_score>
+		<totalscore_title>คะแนนรวม:  </totalscore_title>
+		<description>เข้าร่วมศึกทางเรือของเหล่าราชาโจรสลัด Pirates: Path of the Buccaneer คือการผจญภัยสุดเข้มข้นที่เต็มไปด้วยปืนใหญ่ สัตว์ประหลาดใต้ทะเลลึก และเรือโจรสลัดที่จะทำให้คุณลืมไม่ลง</description>
+		<tutorial_step_1>แข่งขันในรอบคัดเลือกเพื่อ|เข้าสู่รอบชิงชนะเลิศ</tutorial_step_1>
+		<tutorial_step_2>ผลการแข่งขันในรอบชิง|ชนะเลิศจะกำหนดอันดับให้แก่|ประเทศของคุณ</tutorial_step_2>
+		<final>ชิงชนะเลิศ!</final>
+		<skip_level>คุณต้องการข้ามเลเวลนี้หรือไม่</skip_level>
+		<main_hello>สวัสดี [username]</main_hello>
+		<load_success>โหลดบันทึกสำเร็จ</load_success>
+		<load>กำลังโหลด...</load>
+		<save>กำลังบันทึก...</save>
+		<saved>บันทึกเกมแล้ว</saved>
+		<main_login>ล็อกอินเพื่อบันทึกเกม</main_login>
+		<logout_popup>คุณต้องการล็อกเอาท์ออกจาก Facebook หรือไม่</logout_popup>
+		<login_popup>โปรดล็อกอินเข้าสู่ Facebook เพื่อบันทึกความคืบหน้าของคุณ</login_popup>
+		<fail_popup>ไม่สามารถเชื่อมต่อได้เนื่องจากปัญหาทางเครือข่ายหรือ|เซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของ|คุณ และลองใหม่อีกครั้งในภายหลัง</fail_popup>
+	</language>
+	
+	<language lang="tw">
+		<str_upgrade>升級</str_upgrade>
+		<str_item_name01>速度</str_item_name01>
+		<str_item_name02>傷害</str_item_name02>
+		<str_item_name03>生命值</str_item_name03>
+		<str_tutorial_01>拖曳以射擊</str_tutorial_01>
+		<str_tutorial_02>點擊並長按此處以移動船隻</str_tutorial_02>
+		<str_mission_01>擊沉敵人船隻</str_mission_01>
+		<str_mission_bullet_limit>使用%s顆砲彈擊沉敵船</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>擊沉敵船並破壞桶子</str_mission_destroy_barrel>
+		<str_mission_boss_01>殺死利維坦海怪</str_mission_boss_01>
+		<str_mission_time_limit>在%s秒內擊沉敵人船隻</str_mission_time_limit>
+		<str_mission_boss_02>破壞幽靈船</str_mission_boss_02>
+		<str_mission_boss_03>殺死克拉肯海怪</str_mission_boss_03>
+		<str_earned_coin>你贏得了%s枚金幣</str_earned_coin>
+		<str_lose_destroyed>你的船被破壞了！請再試一次。</str_lose_destroyed>
+		<str_lose_outofbullet>你沒有砲彈了！請再試一次。</str_lose_outofbullet>
+		<str_lose_outoftime>時間到了！請再試一次。</str_lose_outoftime>
+		<str_lose_escape>敵人逃跑了！請再試一次。</str_lose_escape>
+		<str_disable_enemy>敵人在%s秒內無法射擊</str_disable_enemy>
+		<str_disable_mc>你在%s秒內無法射擊</str_disable_mc>
+		<str_enemy_escape>敵人再%s秒就要逃跑了！</str_enemy_escape>
+		<str_count_hits>擊中次數：%s</str_count_hits>
+		<str_bonus_level>獎勵關卡</str_bonus_level>
+		<str_bonus_level_target>在%s秒內破壞愈多寶箱愈好</str_bonus_level_target>
+		<share_score>立即分享分數:</share_score>
+		<totalscore_title>總分： </totalscore_title>
+		<description>加入海盜王之間的激烈海戰。集大砲、海怪和海盜船於一身，《海盜王：冒險征途》將帶你踏上難忘的冒險旅程。</description>
+		<tutorial_step_1>在資格賽較勁以打進決賽</tutorial_step_1>
+		<tutorial_step_2>你在決賽的成績將會決定國家之排名</tutorial_step_2>
+		<final>決賽！</final>
+		<skip_level>你想跳過此關卡嗎？</skip_level>
+		<main_hello>你好，[username]！</main_hello>
+		<load_success>已成功載入存檔</load_success>
+		<load>載入中...</load>
+		<save>儲存中...</save>
+		<saved>遊戲已存檔</saved>
+		<main_login>登入以儲存遊戲進度</main_login>
+		<logout_popup>你想要登出Facebook嗎？</logout_popup>
+		<login_popup>請登入Facebook以儲存你的進度</login_popup>
+		<fail_popup>因發生網路或伺服器問題而無法連線|請檢查你的網路連線並稍後再試</fail_popup>
+	</language>
+	
+	<language lang="cn">
+		<str_upgrade>升级</str_upgrade>
+		<str_item_name01>速度</str_item_name01>
+		<str_item_name02>伤害</str_item_name02>
+		<str_item_name03>生命值</str_item_name03>
+		<str_tutorial_01>拖曳发射</str_tutorial_01>
+		<str_tutorial_02>点击并按住此处移动船只</str_tutorial_02>
+		<str_mission_01>击沉敌舰</str_mission_01>
+		<str_mission_bullet_limit>用%s颗炮弹击沉敌舰</str_mission_bullet_limit>
+		<str_mission_destroy_barrel>击沉敌舰并破坏木桶</str_mission_destroy_barrel>
+		<str_mission_boss_01>击杀海怪利维坦</str_mission_boss_01>
+		<str_mission_time_limit>在%s秒内击沉敌舰</str_mission_time_limit>
+		<str_mission_boss_02>破坏幽灵船</str_mission_boss_02>
+		<str_mission_boss_03>击杀海怪克拉肯</str_mission_boss_03>
+		<str_earned_coin>你获得了%s金币</str_earned_coin>
+		<str_lose_destroyed>你的船只已被破坏！再试一次吧。</str_lose_destroyed>
+		<str_lose_outofbullet>你已用尽炮弹！再试一次吧。</str_lose_outofbullet>
+		<str_lose_outoftime>时间到！再试一次吧。</str_lose_outoftime>
+		<str_lose_escape>敌人逃跑了！再试一次吧。</str_lose_escape>
+		<str_disable_enemy>%s秒内敌人无法发射炮弹。</str_disable_enemy>
+		<str_disable_mc>%s秒内你无法发射炮弹。</str_disable_mc>
+		<str_enemy_escape>还有%s秒敌人就逃掉了！</str_enemy_escape>
+		<str_count_hits>%s击</str_count_hits>
+		<str_bonus_level>奖励关</str_bonus_level>
+		<str_bonus_level_target>在%s秒内尽可能多地摧毁宝箱</str_bonus_level_target>
+		<share_score>立即分享您的分数:</share_score>
+		<totalscore_title>总分： </totalscore_title>
+		<description>加入海贼王者间扣人心弦的海战吧：Pirates: Path of the Buccaneer将带给你加农炮弹满屏飞，神秘海怪尽情打的难忘体验。 快扬起海盗船上的风帆，纵横四海吧！</description>
+		<tutorial_step_1>参加资格赛竞技以进入决赛。</tutorial_step_1>
+		<tutorial_step_2>您在决赛中取得的成绩将会决定您所选国家的排名。</tutorial_step_2>
+		<final>决赛！</final>
+		<skip_level>确定要跳过该关卡吗？</skip_level>
+		<main_hello>你好，[username]</main_hello>
+		<load_success>存档已成功载入</load_success>
+		<load>正在加载……</load>
+		<save>正在保存……</save>
+		<saved>游戏已保存</saved>
+		<main_login>登录以保存游戏</main_login>
+		<logout_popup>要退出Facebook登录吗？</logout_popup>
+		<login_popup>请登录Facebook，以保存你的进度。</login_popup>
+		<fail_popup>由于网络或服务器问题，无法连接。|请检查你的网络连接，并稍后重试。</fail_popup>
+	</language>
+	
+	<!--update 16/06/2017-->
+	
+</loc>
